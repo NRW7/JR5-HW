@@ -1,0 +1,13 @@
+p { 
+    border: solid purple;
+}
+li {
+    display: inline;
+}
+span {
+    display: block;
+    background-color: yellow;
+}
+body {
+    padding: .8em;
+}

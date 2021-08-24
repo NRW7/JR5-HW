@@ -1,0 +1,16 @@
+div {
+    border: solid blue;
+    padding: 15px 0px 15px 0px
+}
+p {
+    border: purple; background-color: gray; padding: 15px;
+    margin: 30px;
+}
+.box1 {
+    height: 200px;
+}
+.box2 {
+    height: 400px; width: 400px;
+    overflow: hidden;
+}
+

@@ -1,0 +1,18 @@
+body {
+    background-color: lightgray;
+    }
+.item1 {
+    color: azure;
+}
+.item2 {
+    color:beige
+}
+#maroon {
+    color: maroon;
+}
+.p1 {
+    font-size: 30px;
+}
+#header {
+    visibility: hidden;
+}
